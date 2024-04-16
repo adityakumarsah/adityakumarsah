@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot)]
+[![MASTERHEAD](https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sah</h1>
 <h3 align="center">I am a Computer Science student from India. Currently exploring the vast and fascinating world of computer science.</h3>
 <img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
