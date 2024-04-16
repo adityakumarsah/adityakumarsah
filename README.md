@@ -1,4 +1,4 @@
-[![MASTERHEAD]([https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot](https://www.bing.com/images/search?view=detailV2&ccid=tmSHGTX9&id=B794729BDDCF6E61E0E5E877425A124BFFD2E608&thid=OIP.tmSHGTX9YJIfqEUUz9nbBgHaEK&mediaurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fY1vohJMVMtjSQxmUot%2fsource.gif&exph=1080&expw=1920&q=animated+banner+for+coders&simid=608030918740440119&FORM=IRPRST&ck=618E52FEB546D366912C0E0ECDFC71CB&selectedIndex=58&itb=0&ajaxhist=0&ajaxserp=0)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sah</h1>
 <h3 align="center">I am a Computer Science student from India. Currently exploring the vast and fascinating world of computer science.</h3>
 <img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
